@@ -1,4 +1,8 @@
 {
+  "type": "module",
+  "scripts": {
+    "check": "node --check site.js"
+  },
   "devDependencies": {
     "wrangler": "^4.64.0"
   }
